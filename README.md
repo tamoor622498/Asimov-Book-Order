@@ -2,7 +2,7 @@
 
 This contains the main books from Isaac Asimov.
 The order is:
-I, Robot / The Complete Robot (except 'Mirror Image'!) [ROBOTS]
+n/ I, Robot / The Complete Robot (except 'Mirror Image'!) [ROBOTS]
 The Caves of Steel [ROBOTS]
 The Naked Sun [ROBOTS]
 Mirror Image (short story) [ROBOTS]
