@@ -5,7 +5,7 @@ The order is:<br />
 I, Robot / The Complete Robot (except 'Mirror Image'!) [ROBOTS]<br />
 The Caves of Steel [ROBOTS]<br />
 The Naked Sun [ROBOTS]<br />
-Mirror Image (short story) [ROBOTS]<br />
+Mirror Image (short story) [ROBOTS] (NOT INCLUDED) <br />
 The Robots of Dawn [ROBOTS]<br />
 Robots and Empire [ROBOTS]<br />
 The Stars, Like Dust-- [EMPIRE]<br />
